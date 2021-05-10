@@ -1,0 +1,1 @@
+this is for test getFileContent() at test.txt
